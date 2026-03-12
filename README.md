@@ -2,7 +2,14 @@
 
 A comprehensive data analysis of 8,000 marketing campaign records to evaluate ad spend efficiency, identify high-performing channels, and optimize customer acquisition strategies.
 
-**[➡️ View Interactive Dashboard on Tableau Public]https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+
+**[➡️ View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Digital-Marketing-Profitability-Dashboard/DigitalMarketingProfitabilityDashboard?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-005571?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Marketing Strategy](https://img.shields.io/badge/Marketing_Strategy-F4C84B?style=for-the-badge&logo=googleads&logoColor=white)
 
 ---
 
@@ -41,7 +48,13 @@ The primary objective of this project is to translate transactional marketing da
 
 ---
 
+## Let's Connect!
+Are you looking for a Data/Business Analyst who bridges the gap between technical data and commercial strategy? Let's talk.
+
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/carlosmorenohenao/)
+* **Email:** carlosmhen@gmail.com
+
+---
+
 ### Dashboard Preview
 *(To explore the data by specific segments, please use the interactive link at the top of this page).*
-
-![Marketing Analytics Dashboard](dashboard_preview.png)
